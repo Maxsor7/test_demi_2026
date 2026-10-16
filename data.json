@@ -1,0 +1,1205 @@
+{
+  "gods": [
+    "Zeus",
+    "Hera",
+    "Poseidón",
+    "Demeter",
+    "Ares",
+    "Atenea",
+    "Apolo",
+    "Artemisa",
+    "Hefesto",
+    "Afrodita",
+    "Hermes",
+    "Dionisio",
+    "Hades",
+    "Iris",
+    "Hypnos",
+    "Némesis",
+    "Hestia",
+    "Heracles",
+    "Hebe",
+    "Hécate",
+    "Perséfone",
+    "Asclepio",
+    "Nike",
+    "Tique",
+    "Jano",
+    "Eros",
+    "Eolo",
+    "Tánatos",
+    "Fobos",
+    "Deimos",
+    "Higía",
+    "Harmonía",
+    "Eris",
+    "Hemera",
+    "Nix"
+  ],
+  "questions": {
+    "Seleccioná un lugar": {
+      "Bosque de Bambo": {
+        "gods": [
+          "Demeter",
+          "Atenea",
+          "Hestia",
+          "Hebe",
+          "Asclepio",
+          "Higía",
+          "Harmonía"
+        ],
+        "action": "suma"
+      },
+      "Monte Roraima": {
+        "gods": [
+          "Zeus",
+          "Hera",
+          "Apolo",
+          "Hefesto",
+          "Hermes",
+          "Hypnos",
+          "Heracles",
+          "Nike",
+          "Tique",
+          "Jano",
+          "Eolo"
+        ],
+        "action": "suma"
+      },
+      "Parque Keukenhof": {
+        "gods": [
+          "Hera",
+          "Demeter",
+          "Afrodita",
+          "Iris",
+          "Hestia",
+          "Hebe",
+          "Hécate",
+          "Perséfone",
+          "Asclepio",
+          "Higía",
+          "Harmonía",
+          "Eris"
+        ],
+        "action": "suma"
+      },
+      "Isla Marieta": {
+        "gods": [
+          "Poseidón",
+          "Némesis",
+          "Heracles",
+          "Eros",
+          "Hemera"
+        ],
+        "action": "suma"
+      },
+      "Playa Roja": {
+        "gods": [
+          "Zeus",
+          "Ares",
+          "Apolo",
+          "Afrodita",
+          "Dionisio",
+          "Iris",
+          "Nike",
+          "Eros",
+          "Eolo",
+          "Deimos"
+        ],
+        "action": "suma"
+      },
+      "Bosque Negro": {
+        "gods": [
+          "Atenea",
+          "Artemisa",
+          "Hades",
+          "Némesis",
+          "Hécate",
+          "Tique",
+          "Tánatos",
+          "Fobos",
+          "Deimos",
+          "Nix"
+        ],
+        "action": "suma"
+      },
+      "Mina de Naica": {
+        "gods": [
+          "Hefesto",
+          "Hades",
+          "Perséfone",
+          "Jano",
+          "Tánatos",
+          "Fobos",
+          "Nix"
+        ],
+        "action": "suma"
+      },
+      "Cebu": {
+        "gods": [
+          "Poseidón",
+          "Ares",
+          "Artemisa",
+          "Hermes",
+          "Dionisio",
+          "Hypnos",
+          "Eris",
+          "Hemera"
+        ],
+        "action": "suma"
+      }
+    },
+    "Seleccioná un SuperHéroe": {
+      "Batman": {
+        "gods": [
+          "Hefesto",
+          "Hades",
+          "Hypnos",
+          "Némesis",
+          "Perséfone",
+          "Jano",
+          "Eros",
+          "Tánatos",
+          "Fobos",
+          "Deimos",
+          "Nix"
+        ],
+        "action": "suma"
+      },
+      "Superman": {
+        "gods": [
+          "Ares",
+          "Apolo",
+          "Heracles",
+          "Jano",
+          "Eris",
+          "Hemera"
+        ],
+        "action": "suma"
+      },
+      "Wonder Woman": {
+        "gods": [
+          "Demeter",
+          "Atenea",
+          "Artemisa",
+          "Afrodita",
+          "Hestia",
+          "Hebe",
+          "Hécate",
+          "Perséfone",
+          "Nike",
+          "Tique",
+          "Hemera"
+        ],
+        "action": "suma"
+      },
+      "Flash": {
+        "gods": [
+          "Poseidón",
+          "Artemisa",
+          "Hefesto",
+          "Hermes",
+          "Iris",
+          "Hestia",
+          "Eolo",
+          "Higía",
+          "Harmonía",
+          "Nix"
+        ],
+        "action": "suma"
+      },
+      "Iron-Man": {
+        "gods": [
+          "Hera",
+          "Poseidón",
+          "Afrodita",
+          "Dionisio",
+          "Hypnos",
+          "Asclepio",
+          "Eros"
+        ],
+        "action": "suma"
+      },
+      "Capitán América": {
+        "gods": [
+          "Zeus",
+          "Demeter",
+          "Apolo",
+          "Heracles",
+          "Hebe",
+          "Nike",
+          "Deimos",
+          "Eris"
+        ],
+        "action": "suma"
+      },
+      "Thor": {
+        "gods": [
+          "Zeus",
+          "Hera",
+          "Ares",
+          "Dionisio",
+          "Tique",
+          "Eolo",
+          "Fobos"
+        ],
+        "action": "suma"
+      },
+      "Dr. Strange": {
+        "gods": [
+          "Atenea",
+          "Hermes",
+          "Hades",
+          "Némesis",
+          "Hécate",
+          "Asclepio",
+          "Tánatos",
+          "Higía",
+          "Harmonía"
+        ],
+        "action": "suma"
+      }
+    },
+    "Selecciona un género literario": {
+      "Terror": {
+        "gods": [
+          "Ares",
+          "Dionisio",
+          "Hades",
+          "Asclepio",
+          "Tánatos",
+          "Fobos",
+          "Deimos",
+          "Nix"
+        ],
+        "action": "suma"
+      },
+      "Romance": {
+        "gods": [
+          "Hera",
+          "Afrodita",
+          "Iris",
+          "Hestia",
+          "Hebe",
+          "Perséfone",
+          "Eros",
+          "Higía",
+          "Harmonía",
+          "Eris",
+          "Hemera"
+        ],
+        "action": "suma"
+      },
+      "Policial": {
+        "gods": [
+          "Apolo",
+          "Hades",
+          "Hypnos",
+          "Némesis",
+          "Heracles",
+          "Nike",
+          "Tique"
+        ],
+        "action": "suma"
+      },
+      "Fantasía": {
+        "gods": [
+          "Apolo",
+          "Iris",
+          "Hestia",
+          "Hécate",
+          "Perséfone",
+          "Higía",
+          "Harmonía",
+          "Hemera"
+        ],
+        "action": "suma"
+      },
+      "Ciencia Ficción": {
+        "gods": [
+          "Poseidón",
+          "Ares",
+          "Atenea",
+          "Hefesto",
+          "Hécate",
+          "Tique",
+          "Jano",
+          "Eolo",
+          "Fobos",
+          "Nix"
+        ],
+        "action": "suma"
+      },
+      "Aventura": {
+        "gods": [
+          "Zeus",
+          "Poseidón",
+          "Apolo",
+          "Artemisa",
+          "Hefesto",
+          "Hermes",
+          "Heracles",
+          "Hebe",
+          "Nike",
+          "Eolo"
+        ],
+        "action": "suma"
+      },
+      "Drama": {
+        "gods": [
+          "Poseidón",
+          "Demeter",
+          "Artemisa",
+          "Afrodita",
+          "Némesis",
+          "Asclepio",
+          "Jano",
+          "Eros",
+          "Tánatos"
+        ],
+        "action": "suma"
+      },
+      "Realismo mágico": {
+        "gods": [
+          "Zeus",
+          "Demeter",
+          "Hermes",
+          "Dionisio",
+          "Hypnos",
+          "Deimos",
+          "Eris"
+        ],
+        "action": "suma"
+      }
+    },
+    "Selecciona un color": {
+      "Blanco": {
+        "gods": [
+          "Zeus",
+          "Hera",
+          "Atenea",
+          "Apolo",
+          "Iris",
+          "Hypnos",
+          "Némesis",
+          "Hestia",
+          "Heracles",
+          "Hebe",
+          "Asclepio",
+          "Nike",
+          "Jano",
+          "Eolo",
+          "Higía",
+          "Harmonía",
+          "Eris"
+        ],
+        "action": "suma"
+      },
+      "Negro": {
+        "gods": [
+          "Ares",
+          "Artemisa",
+          "Hades",
+          "Hypnos",
+          "Némesis",
+          "Tique",
+          "Jano",
+          "Eros",
+          "Tánatos",
+          "Fobos",
+          "Deimos",
+          "Nix"
+        ],
+        "action": "suma"
+      },
+      "Azul": {
+        "gods": [
+          "Poseidón",
+          "Atenea",
+          "Artemisa",
+          "Hades",
+          "Hécate",
+          "Asclepio",
+          "Eolo",
+          "Tánatos",
+          "Higía",
+          "Harmonía"
+        ],
+        "action": "suma"
+      },
+      "Amarillo": {
+        "gods": [
+          "Zeus",
+          "Apolo",
+          "Hermes",
+          "Hebe",
+          "Eris",
+          "Hemera"
+        ],
+        "action": "suma"
+      },
+      "Rojo": {
+        "gods": [
+          "Ares",
+          "Afrodita",
+          "Dionisio",
+          "Eros",
+          "Deimos"
+        ],
+        "action": "suma"
+      },
+      "Violeta": {
+        "gods": [
+          "Hera",
+          "Afrodita",
+          "Dionisio",
+          "Iris",
+          "Hécate",
+          "Tique",
+          "Fobos",
+          "Nix"
+        ],
+        "action": "suma"
+      },
+      "Verde": {
+        "gods": [
+          "Poseidón",
+          "Demeter",
+          "Hermes",
+          "Perséfone",
+          "Nike"
+        ],
+        "action": "suma"
+      },
+      "Naranja": {
+        "gods": [
+          "Hefesto",
+          "Hestia",
+          "Perséfone",
+          "Hemera"
+        ],
+        "action": "suma"
+      },
+      "Marrón": {
+        "gods": [
+          "Demeter",
+          "Hefesto",
+          "Heracles"
+        ],
+        "action": "suma"
+      }
+    },
+    "selecciona un elemento": {
+      "Agua": {
+        "gods": [
+          "Poseidón",
+          "Atenea",
+          "Artemisa",
+          "Iris",
+          "Hypnos",
+          "Némesis",
+          "Hebe",
+          "Perséfone",
+          "Asclepio",
+          "Jano",
+          "Deimos",
+          "Higía",
+          "Harmonía"
+        ],
+        "action": "suma"
+      },
+      "Fuego": {
+        "gods": [
+          "Hera",
+          "Ares",
+          "Apolo",
+          "Hefesto",
+          "Afrodita",
+          "Némesis",
+          "Hestia",
+          "Heracles",
+          "Nike",
+          "Jano",
+          "Eros",
+          "Fobos",
+          "Hemera"
+        ],
+        "action": "suma"
+      },
+      "Tierra": {
+        "gods": [
+          "Demeter",
+          "Dionisio",
+          "Hades",
+          "Hécate",
+          "Perséfone",
+          "Tánatos",
+          "Fobos",
+          "Deimos"
+        ],
+        "action": "suma"
+      },
+      "Aire": {
+        "gods": [
+          "Zeus",
+          "Hermes",
+          "Hypnos",
+          "Asclepio",
+          "Tique",
+          "Eolo",
+          "Higía",
+          "Harmonía",
+          "Eris"
+        ],
+        "action": "suma"
+      },
+      "Madera": {
+        "gods": [
+          "Poseidón",
+          "Demeter",
+          "Hermes",
+          "Dionisio",
+          "Tánatos",
+          "Nix"
+        ],
+        "action": "suma"
+      },
+      "Oro": {
+        "gods": [
+          "Zeus",
+          "Ares",
+          "Atenea",
+          "Apolo",
+          "Afrodita",
+          "Hades",
+          "Hestia",
+          "Heracles",
+          "Hebe",
+          "Hécate",
+          "Nike",
+          "Eros",
+          "Hemera"
+        ],
+        "action": "suma"
+      },
+      "Plata": {
+        "gods": [
+          "Hera",
+          "Artemisa",
+          "Tique",
+          "Eolo",
+          "Eris"
+        ],
+        "action": "suma"
+      },
+      "Bronce": {
+        "gods": [
+          "Hefesto",
+          "Iris",
+          "Nix"
+        ],
+        "action": "suma"
+      }
+    },
+    "¿Qué valoras más?": {
+      "Valentía": {
+        "gods": [
+          "Zeus",
+          "Hera",
+          "Poseidón",
+          "Ares",
+          "Heracles",
+          "Nike",
+          "Jano",
+          "Eros"
+        ],
+        "action": "suma"
+      },
+      "Creatividad": {
+        "gods": [
+          "Atenea",
+          "Artemisa",
+          "Hefesto",
+          "Hécate",
+          "Asclepio",
+          "Tique",
+          "Eolo",
+          "Higía",
+          "Harmonía"
+        ],
+        "action": "suma"
+      },
+      "Lealtad": {
+        "gods": [
+          "Demeter",
+          "Apolo",
+          "Hermes",
+          "Dionisio",
+          "Iris",
+          "Hypnos",
+          "Hestia",
+          "Hebe",
+          "Perséfone",
+          "Eris",
+          "Hemera"
+        ],
+        "action": "suma"
+      },
+      "Astucia": {
+        "gods": [
+          "Afrodita",
+          "Hades",
+          "Némesis",
+          "Tánatos",
+          "Fobos",
+          "Nix"
+        ],
+        "action": "suma"
+      },
+      "Sabiduría": {
+        "gods": [
+          "Hera",
+          "Ares",
+          "Apolo",
+          "Dionisio",
+          "Hades",
+          "Tique",
+          "Jano",
+          "Tánatos",
+          "Deimos"
+        ],
+        "action": "suma"
+      },
+      "Curiosidad": {
+        "gods": [
+          "Zeus",
+          "Atenea",
+          "Afrodita",
+          "Némesis",
+          "Heracles",
+          "Hécate",
+          "Nike",
+          "Eros",
+          "Eolo",
+          "Fobos"
+        ],
+        "action": "suma"
+      },
+      "Empatía": {
+        "gods": [
+          "Iris",
+          "Hypnos",
+          "Hebe",
+          "Asclepio",
+          "Higía",
+          "Harmonía",
+          "Nix"
+        ],
+        "action": "suma"
+      },
+      "Disciplina": {
+        "gods": [
+          "Poseidón",
+          "Demeter",
+          "Artemisa",
+          "Hefesto",
+          "Hermes",
+          "Hestia",
+          "Perséfone",
+          "Deimos",
+          "Eris",
+          "Hemera"
+        ],
+        "action": "suma"
+      }
+    },
+    "Seleccioná una Red Social": {
+      "X/Twitter": {
+        "gods": [
+          "Atenea",
+          "Artemisa",
+          "Hermes",
+          "Hypnos",
+          "Tique",
+          "Eolo"
+        ],
+        "action": "suma"
+      },
+      "Facebook": {
+        "gods": [
+          "Zeus",
+          "Hera",
+          "Afrodita",
+          "Dionisio",
+          "Némesis",
+          "Hestia",
+          "Heracles",
+          "Nike"
+        ],
+        "action": "suma"
+      },
+      "Instagram": {
+        "gods": [
+          "Zeus",
+          "Poseidón",
+          "Ares",
+          "Apolo",
+          "Artemisa",
+          "Afrodita",
+          "Dionisio",
+          "Hades",
+          "Iris",
+          "Heracles",
+          "Hécate",
+          "Perséfone",
+          "Nike",
+          "Jano",
+          "Hemera"
+        ],
+        "action": "suma"
+      },
+      "Spotify": {
+        "gods": [
+          "Hera",
+          "Apolo",
+          "Hermes",
+          "Eros",
+          "Eolo",
+          "Nix"
+        ],
+        "action": "suma"
+      },
+      "Pinterest": {
+        "gods": [
+          "Demeter",
+          "Hefesto",
+          "Iris",
+          "Hypnos",
+          "Perséfone",
+          "Eris",
+          "Hemera"
+        ],
+        "action": "suma"
+      },
+      "Tumblr": {
+        "gods": [
+          "Hades",
+          "Némesis",
+          "Hestia",
+          "Hécate",
+          "Asclepio",
+          "Tique",
+          "Tánatos",
+          "Fobos",
+          "Deimos",
+          "Higía",
+          "Harmonía",
+          "Eris",
+          "Nix"
+        ],
+        "action": "suma"
+      },
+      "Youtube": {
+        "gods": [
+          "Poseidón",
+          "Ares",
+          "Hefesto",
+          "Hebe",
+          "Jano",
+          "Deimos"
+        ],
+        "action": "suma"
+      },
+      "Reddit": {
+        "gods": [
+          "Demeter",
+          "Atenea",
+          "Hebe",
+          "Asclepio",
+          "Eros",
+          "Tánatos",
+          "Fobos",
+          "Higía",
+          "Harmonía"
+        ],
+        "action": "suma"
+      }
+    },
+    "Seleccioná una comida": {
+      "Pizzas y empanadas": {
+        "gods": [
+          "Ares",
+          "Hefesto",
+          "Hypnos",
+          "Némesis",
+          "Tánatos",
+          "Nix"
+        ],
+        "action": "suma"
+      },
+      "Ensalada": {
+        "gods": [
+          "Hera",
+          "Artemisa",
+          "Afrodita",
+          "Hebe",
+          "Hécate",
+          "Asclepio",
+          "Higía",
+          "Harmonía",
+          "Hemera"
+        ],
+        "action": "suma"
+      },
+      "Pastas": {
+        "gods": [
+          "Zeus",
+          "Atenea",
+          "Hades",
+          "Jano",
+          "Fobos",
+          "Higía",
+          "Harmonía",
+          "Eris"
+        ],
+        "action": "suma"
+      },
+      "Asado": {
+        "gods": [
+          "Zeus",
+          "Demeter",
+          "Dionisio",
+          "Heracles",
+          "Nike"
+        ],
+        "action": "suma"
+      },
+      "Tacos, Burritos y Enchiladas": {
+        "gods": [
+          "Poseidón",
+          "Demeter",
+          "Apolo",
+          "Hefesto",
+          "Hermes",
+          "Tique",
+          "Eolo"
+        ],
+        "action": "suma"
+      },
+      "Picada": {
+        "gods": [
+          "Poseidón",
+          "Dionisio",
+          "Hades",
+          "Heracles",
+          "Perséfone",
+          "Eolo",
+          "Deimos"
+        ],
+        "action": "suma"
+      },
+      "Hamburguesas con papas": {
+        "gods": [
+          "Ares",
+          "Apolo",
+          "Hermes",
+          "Hécate",
+          "Jano",
+          "Tánatos"
+        ],
+        "action": "suma"
+      },
+      "Panqueques": {
+        "gods": [
+          "Artemisa",
+          "Iris",
+          "Hestia",
+          "Perséfone",
+          "Eros"
+        ],
+        "action": "suma"
+      },
+      "Mousse de chocolate": {
+        "gods": [
+          "Afrodita",
+          "Iris",
+          "Hebe",
+          "Tique",
+          "Eros",
+          "Fobos",
+          "Deimos"
+        ],
+        "action": "suma"
+      },
+      "Helado": {
+        "gods": [
+          "Hera",
+          "Atenea",
+          "Hypnos",
+          "Némesis",
+          "Hestia",
+          "Asclepio",
+          "Nike",
+          "Eris",
+          "Hemera",
+          "Nix"
+        ],
+        "action": "suma"
+      }
+    },
+    "Seleccioná una bebida": {
+      "Café con o sin leche": {
+        "gods": [
+          "Zeus",
+          "Ares",
+          "Atenea",
+          "Hefesto",
+          "Hades",
+          "Némesis",
+          "Perséfone",
+          "Tánatos",
+          "Fobos",
+          "Deimos",
+          "Eris",
+          "Nix"
+        ],
+        "action": "suma"
+      },
+      "Gaseosa": {
+        "gods": [
+          "Poseidón",
+          "Apolo",
+          "Hermes",
+          "Dionisio",
+          "Heracles",
+          "Hécate",
+          "Eolo",
+          "Tánatos",
+          "Fobos",
+          "Hemera"
+        ],
+        "action": "suma"
+      },
+      "Vino": {
+        "gods": [
+          "Zeus",
+          "Hera",
+          "Afrodita",
+          "Dionisio",
+          "Hades",
+          "Némesis",
+          "Hebe",
+          "Perséfone",
+          "Nike",
+          "Eros"
+        ],
+        "action": "suma"
+      },
+      "Jugo": {
+        "gods": [
+          "Demeter",
+          "Artemisa",
+          "Iris",
+          "Hestia",
+          "Hécate",
+          "Higía",
+          "Harmonía",
+          "Hemera"
+        ],
+        "action": "suma"
+      },
+      "Agua": {
+        "gods": [
+          "Demeter",
+          "Artemisa",
+          "Hermes",
+          "Iris",
+          "Asclepio",
+          "Tique",
+          "Jano",
+          "Eolo",
+          "Higía",
+          "Harmonía"
+        ],
+        "action": "suma"
+      },
+      "Té": {
+        "gods": [
+          "Hera",
+          "Atenea",
+          "Afrodita",
+          "Hypnos",
+          "Hebe",
+          "Asclepio",
+          "Tique"
+        ],
+        "action": "suma"
+      },
+      "Cerveza": {
+        "gods": [
+          "Poseidón",
+          "Ares",
+          "Hefesto",
+          "Heracles",
+          "Nike",
+          "Jano",
+          "Deimos"
+        ],
+        "action": "suma"
+      },
+      "Chocolate caliente": {
+        "gods": [
+          "Apolo",
+          "Hypnos",
+          "Hestia",
+          "Eros",
+          "Eris",
+          "Nix"
+        ],
+        "action": "suma"
+      }
+    },
+    "Seleccioná una flor": {
+      "Amarilis": {
+        "gods": [
+          "Apolo",
+          "Afrodita",
+          "Hebe",
+          "Perséfone",
+          "Hemera"
+        ],
+        "action": "suma"
+      },
+      "Margarita": {
+        "gods": [
+          "Atenea",
+          "Artemisa",
+          "Hypnos",
+          "Hestia",
+          "Eolo",
+          "Higía",
+          "Harmonía",
+          "Eris"
+        ],
+        "action": "suma"
+      },
+      "Clavel": {
+        "gods": [
+          "Zeus",
+          "Hera",
+          "Ares",
+          "Apolo",
+          "Hefesto",
+          "Hermes",
+          "Némesis",
+          "Heracles",
+          "Perséfone",
+          "Nike",
+          "Eros",
+          "Tánatos",
+          "Deimos"
+        ],
+        "action": "suma"
+      },
+      "Delfinio": {
+        "gods": [
+          "Demeter",
+          "Dionisio",
+          "Tánatos",
+          "Fobos"
+        ],
+        "action": "suma"
+      },
+      "Jacinto": {
+        "gods": [
+          "Hera",
+          "Poseidón",
+          "Hermes",
+          "Iris",
+          "Heracles",
+          "Hécate",
+          "Tique",
+          "Jano",
+          "Eolo",
+          "Nix"
+        ],
+        "action": "suma"
+      },
+      "Gladiolo": {
+        "gods": [
+          "Zeus",
+          "Poseidón",
+          "Ares",
+          "Hefesto",
+          "Dionisio",
+          "Hades",
+          "Némesis",
+          "Nike",
+          "Deimos"
+        ],
+        "action": "suma"
+      },
+      "Iris": {
+        "gods": [
+          "Atenea",
+          "Afrodita",
+          "Hades",
+          "Iris",
+          "Hécate",
+          "Asclepio",
+          "Tique",
+          "Eros",
+          "Fobos",
+          "Hemera"
+        ],
+        "action": "suma"
+      },
+      "Aster": {
+        "gods": [
+          "Demeter",
+          "Artemisa",
+          "Hypnos",
+          "Hestia",
+          "Hebe",
+          "Asclepio",
+          "Jano",
+          "Higía",
+          "Harmonía",
+          "Eris",
+          "Nix"
+        ],
+        "action": "suma"
+      }
+    },
+    "¿Qué pronombres usas para referirte a vos?": {
+      "Él": {
+        "gods": [],
+        "action": "exclude_artemisa"
+      },
+      "Ella": {
+        "gods": [],
+        "action": "none"
+      },
+      "Elle": {
+        "gods": [],
+        "action": "none"
+      },
+      "Todos los anteriores": {
+        "gods": [],
+        "action": "exclude_artemisa"
+      },
+      "Él y Ella": {
+        "gods": [],
+        "action": "exclude_artemisa"
+      },
+      "Ella y Elle": {
+        "gods": [],
+        "action": "none"
+      },
+      "Elle y Él": {
+        "gods": [],
+        "action": "exclude_artemisa"
+      }
+    }
+  }
+}
